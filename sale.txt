@@ -1,0 +1,2 @@
+The total after 1 sales is at: 57
+The total after 2 sales is at: 175

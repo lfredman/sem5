@@ -1,0 +1,1 @@
+2023-06-03T13:17:48.843873  se.kth.iv1350.checkoutsystem.integration.DatabaseUnreachableException: Could not reach the database
